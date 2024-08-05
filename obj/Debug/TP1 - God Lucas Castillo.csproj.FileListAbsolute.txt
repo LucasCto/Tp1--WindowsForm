@@ -1,0 +1,10 @@
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\bin\Debug\TP1 - God Lucas Castillo.exe.config
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\bin\Debug\TP1 - God Lucas Castillo.exe
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\bin\Debug\TP1 - God Lucas Castillo.pdb
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1 - God Lucas Castillo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1___God_Lucas_Castillo.Form1.resources
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1___God_Lucas_Castillo.Properties.Resources.resources
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1 - God Lucas Castillo.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1 - God Lucas Castillo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1 - God Lucas Castillo.exe
+C:\Users\Lucas\Documents\Mis cosas\Uni\Lenguajes 3\TP1 - God Lucas Castillo\TP1 - God Lucas Castillo\obj\Debug\TP1 - God Lucas Castillo.pdb
